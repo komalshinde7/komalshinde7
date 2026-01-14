@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Komal
 - Currently pursuing B.tech in Artificial Intelligence and Data Science.
-- 📫 How to reach me komalshinde0371@gmail.com
 
 
 <!---
